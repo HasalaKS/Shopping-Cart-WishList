@@ -1,0 +1,50 @@
+
+.myCard{
+    margin-right: 2.5rem;
+}
+
+.btn{
+    cursor: pointer;
+}
+
+.modelCss{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.my_icon{
+    font-size: 1.1rem;
+}
+
+.big_icon{
+    font-size: 5rem;
+}
+
+.my_button_r{
+    background: lightcoral;
+    border: none;
+    border-radius: 0.2rem;
+    color: white;
+}
+
+.my_button_g{
+    background: lightgray;
+    border: none;
+    border-radius: 0.2rem;
+    color: white;
+}
+
+.my_button_gg{
+    background: darkgray;
+    border: none;
+    border-radius: 0.2rem;
+    color: white;
+}
+
